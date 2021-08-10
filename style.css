@@ -1,0 +1,26 @@
+header {
+    background-color: #CCCCCC;
+    padding: 20px;
+    border-bottom-width: 30px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFFFFF;
+}
+
+.black-border {
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+}
+
+#definiçao {
+    padding-top: 20px;
+}
+
+.tamanho-da-letra {
+    font-size: 20px;
+}
+
+#imagem-numeros-primos {
+    width: 75%;
+}
